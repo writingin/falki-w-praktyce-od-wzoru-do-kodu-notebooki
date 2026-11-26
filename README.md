@@ -1,1 +1,1 @@
-# falki-w-praktyce-od-wzoru-do-kodu-notebooki
+# falki-w-praktyce-od-wzoru-do-kodu-notatniki
